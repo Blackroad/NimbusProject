@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITestProject", "CodedUITestProject.csproj", "{7F90974F-7496-4894-919D-758A826E0641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTLibrary", "..\..\Nimbus\Nimbus\Tools\VTLibrary\VTLibrary.csproj", "{4D58F09F-34D4-47F8-B93D-6963A8C3F947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F90974F-7496-4894-919D-758A826E0641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F90974F-7496-4894-919D-758A826E0641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F90974F-7496-4894-919D-758A826E0641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F90974F-7496-4894-919D-758A826E0641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D58F09F-34D4-47F8-B93D-6963A8C3F947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D58F09F-34D4-47F8-B93D-6963A8C3F947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D58F09F-34D4-47F8-B93D-6963A8C3F947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D58F09F-34D4-47F8-B93D-6963A8C3F947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18B609D2-1A77-425A-9453-6FA6DE5DAB4E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://pm-tfs2.medtronic.com:8080/tfs/af_solutions
+		SccProjectUniqueName0 = ..\\..\\Nimbus\\Nimbus\\Tools\\VTLibrary\\VTLibrary.csproj
+		SccProjectName0 = $/Console/Nimbus/Tools/VTLibrary
+		SccAuxPath0 = http://pm-tfs2.medtronic.com:8080/tfs/af_solutions
+		SccLocalPath0 = ..\\..\\Nimbus\\Nimbus\\Tools\\VTLibrary
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
